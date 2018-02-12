@@ -22,7 +22,7 @@ public class Practica2IPC extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
         
         Scene scene = new Scene(root);
-        
+        /*Este es un comentario*/
         stage.setScene(scene);
         stage.show();
     }
