@@ -24,6 +24,7 @@ public class Practica2IPC extends Application {
         Scene scene = new Scene(root);
         /*Este es un comentario*/
         /*Este vuelve a ser un cometnario*/
+        /*Ya tiene un tercer comentario*/
         stage.setScene(scene);
         stage.show();
     }
